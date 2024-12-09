@@ -46,3 +46,8 @@ This isn't just theoretical - it helps us:
 3. Create more natural and human-like AI responses
 
 Think of it like teaching someone to dance: instead of giving rigid instructions (traditional computing), we're creating an environment where natural movement can emerge (quantum approach).
+
+For more information:
+
+Overview: Please refer to the overview.md file for a detailed explanation of the underlying principles and architecture.
+Setup & Testing: Check out the setup&testing.md file to set up the environment and test the system.
