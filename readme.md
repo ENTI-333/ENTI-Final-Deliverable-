@@ -52,3 +52,6 @@ For more information:
 Overview: Please refer to the overview.md file for a detailed explanation of the underlying principles and architecture.
 
 Setup & Testing: Check out the setup&testing.md file to set up the environment and test the system.
+
+Quantum Emergence Prompts: Don’t miss the quantum_emergence_prompt.md file to explore how to design prompts leveraging quantum principles.
+Viewing Full Code: When browsing, make sure to click Code and not just Preview so you can view the full implementation and details.
